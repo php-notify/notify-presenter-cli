@@ -1,0 +1,12 @@
+{
+    "name": "php-notify/notify-presenter-cli",
+    "license": "MIT",
+    "require": {
+        "php-notify/notify": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Notify\\Presenter\\Cli\\": "src/"
+        }
+    }
+}
